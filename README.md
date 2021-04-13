@@ -1,5 +1,5 @@
 # Grenda Carla
-![image](https://user-images.githubusercontent.com/80162033/114620991-8ec6b200-9c82-11eb-8a18-6255c0a1ba6f.png) ![image](https://user-images.githubusercontent.com/80162033/114621056-a140eb80-9c82-11eb-8828-5fa66fd512d2.png)
+<!-- ![image](https://user-images.githubusercontent.com/80162033/114620991-8ec6b200-9c82-11eb-8a18-6255c0a1ba6f.png) ![image](https://user-images.githubusercontent.com/80162033/114621056-a140eb80-9c82-11eb-8828-5fa66fd512d2.png)-->
 
 
 
