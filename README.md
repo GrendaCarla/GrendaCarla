@@ -1,31 +1,35 @@
 #     ![image](https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png)  Olá, Bem-vindo ao meu perfil
 
+<br>
 
-[![image](https://user-images.githubusercontent.com/80162033/114620991-8ec6b200-9c82-11eb-8a18-6255c0a1ba6f.png) ](https://www.linkedin.com/in/grenda-carla-ferreira-silva-69bb4a1b9/)
-[![image](https://user-images.githubusercontent.com/80162033/115641472-8d832e00-a2ef-11eb-9cd7-87d79be6b497.png) ](https://github.com/GrendaCarla)
-
-
-
-### ![image](https://img.icons8.com/dusk/50/000000/python.png)   Sobre mim
+# [![image](https://user-images.githubusercontent.com/80162033/114620991-8ec6b200-9c82-11eb-8a18-6255c0a1ba6f.png) ](https://www.linkedin.com/in/grenda-carla-ferreira-silva-69bb4a1b9/)  [![image](https://user-images.githubusercontent.com/80162033/115641472-8d832e00-a2ef-11eb-9cd7-87d79be6b497.png) ](https://github.com/GrendaCarla)
 
 
+
+###  Sobre mim
+
+<br>
 
 * 🎓 Sou estudante de Análise e Desenvolvimento de Sistemas.
 * 🔭 Meu objetivo profissional ainda esta em aberto, mas estou indo pelo caminho do desenvolvedor full stack.
 
+<br>
   
 ### 🔧 Ferramentas e Tecnologias
 
 
-![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
-![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+
 ![image](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
  ![image](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
- ![image](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)![image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
- ![image](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
  
-
-
+ ![image](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+ 
+ ![image](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+ 
+<br>
 
 ### 📈 Github Statistics:
 
