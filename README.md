@@ -22,11 +22,15 @@
         
         
         
-# Linguagens
+### Ferramentas e Tecnologias
 
-![image](https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png) ![image](https://img.icons8.com/dusk/50/000000/python.png) ![image](https://img.icons8.com/color/48/000000/c-programming.png) ![image](https://user-images.githubusercontent.com/80162033/115634360-d8954500-a2df-11eb-98c3-52a88305b45f.png) ![image](https://user-images.githubusercontent.com/80162033/115634394-f1055f80-a2df-11eb-8887-79649b7e521d.png) ![image](https://user-images.githubusercontent.com/80162033/115634489-18f4c300-a2e0-11eb-87c1-4a64cfd38c58.png) ![image](https://user-images.githubusercontent.com/80162033/115634546-3164dd80-a2e0-11eb-930f-69f794808f90.png) ![image](https://img.icons8.com/color/50/000000/dart.png) ![image](https://user-images.githubusercontent.com/80162033/115634628-6113e580-a2e0-11eb-84c1-74028ec8d1fb.png)
+![image](https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png) ![image](https://img.icons8.com/dusk/50/000000/python.png) ![image](https://img.icons8.com/color/48/000000/c-programming.png) ![Uploading image.png…]() ![image](https://user-images.githubusercontent.com/80162033/115634394-f1055f80-a2df-11eb-8887-79649b7e521d.png) ![image](https://user-images.githubusercontent.com/80162033/115634489-18f4c300-a2e0-11eb-87c1-4a64cfd38c58.png) ![image](https://user-images.githubusercontent.com/80162033/115634546-3164dd80-a2e0-11eb-930f-69f794808f90.png) ![image](https://img.icons8.com/color/50/000000/dart.png) ![image](https://user-images.githubusercontent.com/80162033/115634628-6113e580-a2e0-11eb-84c1-74028ec8d1fb.png)
  ![image](https://img.icons8.com/color/48/000000/microsoft-sql-server.png) ![image](https://user-images.githubusercontent.com/80162033/115634695-7ee14a80-a2e0-11eb-9d5a-80094ebe0bc3.png)
+ 
 
 
+### 📈 Github Statistics:
 
-! [SUAS estatísticas do github] (https://github-readme-stats.vercel.app/api?username=Grenda Carla)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrendaCarla&show_icons=true&theme=tokyonight&hide=issues) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrendaCarla&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+
