@@ -10,13 +10,7 @@
 
 <h2 vertical-align: middle;><img src="https://img.icons8.com/dusk/64/000000/cute-skull.png"> Sobre mim</h2>
 
-
-
-
-
-
-
-
+</br>
 
 * ![image](https://user-images.githubusercontent.com/80162033/116281016-a6f8ff80-a75f-11eb-9b97-adce235f6794.png) Estudo Análise e Desenvolvimento de Sistemas na Universidade São Francisco.
 * ![image](https://user-images.githubusercontent.com/80162033/116281778-6a79d380-a760-11eb-9721-058fec2404fb.png) Gosto de varias áreas da programação, então ainda não defini o meu foco.
