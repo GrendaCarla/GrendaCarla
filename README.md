@@ -4,21 +4,15 @@
 
 <br>
 
-<table style="border-collapse: collapse; border: none;">
-  <tr>
-    <td>
-      <h2><img src="https://img.icons8.com/dusk/64/000000/cute-skull.png"> Sobre mim</h2>
-      <br>
-      <ul> 
-        <li>🎓 Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade São Francisco. </li>
-        <li> 💻 Gosto de varias áreas da programação, então ainda não defini o meu foco. </li>
-        <li> 💖 Tenho como hobby consumir cultura geek, otaku, RPGistica e gosto muito de desenhar. </li>
-      </ul>
-    </td>
-    <td><img src="https://user-images.githubusercontent.com/80162033/116268175-73b07380-a753-11eb-8d51-c89038c37cc1.png"></td>
-  </tr>
-</table>
+<img align="right" src="https://user-images.githubusercontent.com/80162033/116268175-73b07380-a753-11eb-8d51-c89038c37cc1.png" width="350px;"/>
 
+----
+
+<h2><img src="https://img.icons8.com/dusk/64/000000/cute-skull.png"> Sobre mim</h2>
+
+* 🎓 Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade São Francisco.
+* 💻 Gosto de varias áreas da programação, então ainda não defini o meu foco.
+* 💖 Tenho como hobby consumir cultura geek, otaku, RPGistica e gosto muito de desenhar.
 
 
 <br><br>
@@ -29,9 +23,9 @@
  
 <br>
 
-## ![image](https://img.icons8.com/dusk/64/000000/bullish.png) Github Statistics:
+<details open>
+  <summary><h2><img src="https://img.icons8.com/dusk/64/000000/bullish.png"> Github Statistics: </h2></summary>
 
 .<p align=center>  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrendaCarla&show_icons=true&hide=issues&bg_color=230E3E&text_color=8692FB&icon_color=F01A80&title_color=59CCBA)      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?&layout=compact&username=GrendaCarla&bg_color=230E3E&text_color=F01A80&icon_color=F01A80&title_color=8692FB)    </p>
 
-
-
+</details>
