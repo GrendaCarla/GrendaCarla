@@ -5,6 +5,25 @@
 
 ![image](https://user-images.githubusercontent.com/80162033/116268175-73b07380-a753-11eb-8d51-c89038c37cc1.png)
 
+
+<table style="border-collapse: collapse; border: none;">
+  <tr>
+    <td>
+      <h2><img src="https://img.icons8.com/dusk/64/000000/cute-skull.png"> Sobre mim</h2>
+      <br>
+      <ul> 
+        <li>🎓 Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade São Francisco. </li>
+        <li> 💻 Gosto de varias áreas da programação, então ainda não defini o meu foco. </li>
+        <li> 💖 Tenho como hobby consumir cultura geek, otaku, RPGistica e gosto muito de desenhar. </li>
+      </ul>
+    </td>
+    <td><img src="https://user-images.githubusercontent.com/80162033/116268175-73b07380-a753-11eb-8d51-c89038c37cc1.png"></td>
+  </tr>
+</table>
+
+
+
+
 |||
 | ------------------- | ------------------- |
 | ![image](https://img.icons8.com/dusk/64/000000/cute-skull.png) Sobre mim  <br> * 🎓 Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade São Francisco. <br> * 💻 Gosto de varias áreas da programação, então ainda não defini o meu foco. <br> * 💖 Tenho como hobby o consumo de cultura geek, otaku, RPGistica e gosto muito de desenhar.| ![image](https://user-images.githubusercontent.com/80162033/116268175-73b07380-a753-11eb-8d51-c89038c37cc1.png) |
