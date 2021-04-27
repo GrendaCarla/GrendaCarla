@@ -9,7 +9,7 @@
 
 * 🎓 Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade São Francisco.
 * 💻 Gosto de varias áreas da programação, então ainda não defini o meu foco.
-* 💖 Tenho como hobby consumir cultura geek, otaku, RPGistica e gosto muito de desenhar.
+* ![image](https://img.icons8.com/dusk/64/000000/krita.png) Tenho como hobby consumir cultura geek, otaku, RPGistica e gosto muito de desenhar.
 
 <br><br>
   
