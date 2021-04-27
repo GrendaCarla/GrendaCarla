@@ -21,7 +21,7 @@
 
 ## 📈 Github Statistics:
 
-.<p align=center>  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrendaCarla&bg_color=230E3E&text_color=F01A80&icon_color=F01A80&title_color=8692FB)       ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrendaCarla&show_icons=true&hide=issues&bg_color=230E3E&text_color=8692FB&icon_color=F01A80&title_color=59CCBA)       </p>
+.<p align=center>  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrendaCarla&show_icons=true&hide=issues&bg_color=230E3E&text_color=8692FB&icon_color=F01A80&title_color=59CCBA)      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?&layout=compact&username=GrendaCarla&bg_color=230E3E&text_color=F01A80&icon_color=F01A80&title_color=8692FB)    </p>
 
 
 
