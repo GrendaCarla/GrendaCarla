@@ -1,14 +1,15 @@
 # <p align=center> ![image](https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png)    Olá, Bem-vindo ao meu perfil</p> 
 
-.<p align=center>  [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/grenda-carla-ferreira-silva-69bb4a1b9/)        [ ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GrendaCarla)  </p> 
+.<p align=center>  [![image](https://img.shields.io/badge/LinkedIn-4f52de?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/grenda-carla-ferreira-silva-69bb4a1b9/)        [ ![image](https://img.shields.io/badge/GitHub-3c073c?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GrendaCarla)  </p> 
 
 ##  Sobre mim
 
 
 <br>
 
-* 🎓 Sou estudante de Análise e Desenvolvimento de Sistemas.
-* 🔭 Meu objetivo profissional ainda esta em aberto, mas estou indo pelo caminho do desenvolvedor full stack.
+* 🎓 Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade São Francisco.
+* 💻 Gosto de varias áreas da programação, então ainda não defini o meu foco.
+* 🎮 Tenho como hobby consumir cutura geek, otaku, RPGistica e gosto muito de desenhar.
 
 <br><br>
   
@@ -20,7 +21,7 @@
 
 ## 📈 Github Statistics:
 
-.<p align=center>  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrendaCarla&layout=compact&bg_color=230E3E&text_color=F01A80&icon_color=F01A80&title_color=8692FB)       ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrendaCarla&show_icons=true&hide=issues&bg_color=230E3E&text_color=8692FB&icon_color=F01A80&title_color=59CCBA)       </p>
+.<p align=center>  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrendaCarla&bg_color=230E3E&text_color=F01A80&icon_color=F01A80&title_color=8692FB)       ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrendaCarla&show_icons=true&hide=issues&bg_color=230E3E&text_color=8692FB&icon_color=F01A80&title_color=59CCBA)       </p>
 
 
 
