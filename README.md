@@ -1,6 +1,6 @@
-# <p align=center> ![image](https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png)    Olá, Bem-vindo ao meu perfil</p> <p align=center>  [![image](https://user-images.githubusercontent.com/80162033/114620991-8ec6b200-9c82-11eb-8a18-6255c0a1ba6f.png) ](https://www.linkedin.com/in/grenda-carla-ferreira-silva-69bb4a1b9/)        [ ![image](https://user-images.githubusercontent.com/80162033/115641472-8d832e00-a2ef-11eb-9cd7-87d79be6b497.png)](https://github.com/GrendaCarla)  </p> 
+# <p align=center> ![image](https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png)    Olá, Bem-vindo ao meu perfil</p> 
 
-
+.<p align=center>  [![image](https://user-images.githubusercontent.com/80162033/114620991-8ec6b200-9c82-11eb-8a18-6255c0a1ba6f.png) ](https://www.linkedin.com/in/grenda-carla-ferreira-silva-69bb4a1b9/)        [ ![image](https://user-images.githubusercontent.com/80162033/115641472-8d832e00-a2ef-11eb-9cd7-87d79be6b497.png)](https://github.com/GrendaCarla)  </p> 
 
 ##  Sobre mim
 
