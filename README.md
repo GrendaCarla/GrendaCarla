@@ -2,7 +2,7 @@
 
 .<p align=center>  [![image](https://img.shields.io/badge/LinkedIn-4f52de?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/grenda-carla-ferreira-silva-69bb4a1b9/)        [ ![image](https://img.shields.io/badge/GitHub-3c073c?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GrendaCarla)  </p> 
 
-
+<br>
 
 <table style="border-collapse: collapse; border: none;">
   <tr>
