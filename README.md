@@ -2,14 +2,14 @@
 
 .<p align=center>  [![image](https://img.shields.io/badge/LinkedIn-4f52de?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/grenda-carla-ferreira-silva-69bb4a1b9/)        [ ![image](https://img.shields.io/badge/GitHub-3c073c?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GrendaCarla)  </p> 
 
-##  Sobre mim
+##  ![image](https://img.icons8.com/dusk/64/000000/cute-skull.png) Sobre mim
 
 
 <br>
 
 * 🎓 Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade São Francisco.
 * 💻 Gosto de varias áreas da programação, então ainda não defini o meu foco.
-* 🎮 Tenho como hobby consumir cutura geek, otaku, RPGistica e gosto muito de desenhar.
+* 💖 Tenho como hobby consumir cutura geek, otaku, RPGistica e gosto muito de desenhar.
 
 <br><br>
   
