@@ -28,7 +28,7 @@
  
  ![image](https://img.shields.io/badge/Dart-73d4ed?style=for-the-badge&logo=dart&logoColor=white) ![image](https://img.shields.io/badge/Flutter-5bdbcb?style=for-the-badge&logo=flutter&logoColor=white)       
  
- ![image](https://img.shields.io/badge/Microsoft_SQL_Server-95edc5?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![image](https://img.shields.io/badge/MySQL-b5f0be?style=for-the-badge&logo=mysql&logoColor=white)
+ ![image](https://img.shields.io/badge/Microsoft_SQL_Server-54e4a2?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![image](https://img.shields.io/badge/MySQL-7ced8d?style=for-the-badge&logo=mysql&logoColor=white)
  
 <br>
 
