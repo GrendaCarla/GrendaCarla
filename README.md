@@ -1,9 +1,7 @@
-#     ![image](https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png)
- Olá, Bem-vindo ao meu perfil </center>
- 
- <p align="justify">
-  Lorem ipsum
-</p>
+# <p align=center> ![image](https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png) Olá, Bem-vindo ao meu perfil</p>
+
+
+
 
 <br>
 
