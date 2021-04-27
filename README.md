@@ -4,7 +4,6 @@
 
 
 
-
 <table style="border-collapse: collapse; border: none;">
   <tr>
     <td>
@@ -21,19 +20,6 @@
 </table>
 
 
-<img src="https://user-images.githubusercontent.com/80162033/116268175-73b07380-a753-11eb-8d51-c89038c37cc1.png"  style="position: absolute;
-	top: 30px; right: 0;  left: 40px;">
-
-
-
-
-##  ![image](https://img.icons8.com/dusk/64/000000/cute-skull.png) Sobre mim
-
-<br>
-
-* 🎓 Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade São Francisco.
-* 💻 Gosto de varias áreas da programação, então ainda não defini o meu foco.
-* 💖 Tenho como hobby consumir cultura geek, otaku, RPGistica e gosto muito de desenhar.
 
 <br><br>
   
