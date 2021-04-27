@@ -1,15 +1,20 @@
-# <p align=center> ![image](https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png)    Olá, Bem-vindo ao meu perfil</p> 
+# <p align=center> ![image](https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png)    Olá, Bem-vindo ao meu perfil</p> | ![image](https://user-images.githubusercontent.com/80162033/116268175-73b07380-a753-11eb-8d51-c89038c37cc1.png)
+
+|:-------------------------------------------------------------------------:|
 
 .<p align=center>  [![image](https://img.shields.io/badge/LinkedIn-4f52de?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/grenda-carla-ferreira-silva-69bb4a1b9/)        [ ![image](https://img.shields.io/badge/GitHub-3c073c?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GrendaCarla)  </p> 
 
-##  ![image](https://img.icons8.com/dusk/64/000000/cute-skull.png) Sobre mim
 
+
+
+
+##  ![image](https://img.icons8.com/dusk/64/000000/cute-skull.png) Sobre mim
 
 <br>
 
 * 🎓 Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade São Francisco.
 * 💻 Gosto de varias áreas da programação, então ainda não defini o meu foco.
-* ![image](https://img.icons8.com/dusk/64/000000/krita.png) Tenho como hobby consumir cultura geek, otaku, RPGistica e gosto muito de desenhar.
+* 💖 Tenho como hobby consumir cultura geek, otaku, RPGistica e gosto muito de desenhar.
 
 <br><br>
   
