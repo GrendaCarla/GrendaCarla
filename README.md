@@ -1,6 +1,6 @@
 # <p align=center> ![image](https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png)    Olá, Bem-vindo ao meu perfil </p>
 
-<strong align="center"><a href="https://www.linkedin.com/in/grenda-carla-ferreira-silva-69bb4a1b9/"><img align=center src="https://img.shields.io/badge/LinkedIn-4f52de?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://github.com/GrendaCarla"><img align=center src="https://img.shields.io/badge/GitHub-3c073c?style=for-the-badge&logo=github&logoColor=white"></a> </strong>
+<p align=center><a href="https://www.linkedin.com/in/grenda-carla-ferreira-silva-69bb4a1b9/"><img align=center src="https://img.shields.io/badge/LinkedIn-4f52de?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://github.com/GrendaCarla"><img align=center src="https://img.shields.io/badge/GitHub-3c073c?style=for-the-badge&logo=github&logoColor=white"></a> </p>
  
 
 .<p align=center>  [![image](https://img.shields.io/badge/LinkedIn-4f52de?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/grenda-carla-ferreira-silva-69bb4a1b9/)        [ ![image](https://img.shields.io/badge/GitHub-3c073c?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GrendaCarla)  </p> 
