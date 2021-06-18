@@ -8,7 +8,7 @@
 
 ----
 
-<h2 vertical-align: middle;><img src="https://img.icons8.com/dusk/64/000000/cute-skull.png"> Sobre mim</h2>
+<h2 vertical-align: middle;>Sobre mim</h2>
 
 </br>
 
