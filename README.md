@@ -14,7 +14,6 @@
 
 * ![image](https://user-images.githubusercontent.com/80162033/116281016-a6f8ff80-a75f-11eb-9b97-adce235f6794.png) Me formei em Análise e Desenvolvimento de Sistemas na Universidade São Francisco.
 * ![image](https://user-images.githubusercontent.com/80162033/116281778-6a79d380-a760-11eb-9721-058fec2404fb.png) Gosto de varias áreas da programação, então ainda não defini o meu foco.
-* ![image](https://user-images.githubusercontent.com/80162033/116283353-2daedc00-a762-11eb-8db1-8ed53978550e.png) Tenho como hobby consumir cultura geek, otaku, RPGistica e gosto muito de desenhar.
 
 
 <br><br><br>
